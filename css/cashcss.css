@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+.vip,.novip{
+	margin-top: 10px;
+}
+.hdp-cash-tb-div-head table{
+	border-bottom: 0px !important;
+}
+.hdp-cash-tb-div-head table td{
+	width: 11.1%;
+}
+.hdp-cash-tb-div-body table td{
+	border-top: 0px !important;
+	width: 11.1%;
+}
+.hdp-cash-tb-div-body table{
+	border-top: 0px !important;
+}
+.hdp-cash-tb-div-body{
+	margin-top: -20px;
+	height: 240px;
+	overflow: auto;
+}

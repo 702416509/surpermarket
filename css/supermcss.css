@@ -1,0 +1,37 @@
+﻿body{
+	background:linear-gradient(90deg,rgb(220,204,253),rgb(159,136,218));
+}
+.hdp-footer{
+	height:36px;
+	line-height:36px;
+	color:#333;
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	right:0px;
+}
+.hdp-footer-wel{
+	margin-left:550px;
+}
+.hdp-footer-time{
+	float:right;
+	margin-right:10px;
+}
+.hdp-body{
+	width:1024px;
+	margin:0px auto;
+}
+table{
+	text-align:center;
+}
+.hdp-welcome{
+	color:#fff;
+	font-size:50px;
+	margin-top:200px;
+}
+.hdp-body-tb-data input,.hdp-body-tb-data select{
+	max-width: 70px;
+}
+.hdp-hand{
+	cursor: pointer;
+}
